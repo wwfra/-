@@ -7,4 +7,9 @@ Python**数据处理**、**大模型**相关(langchain/RAG增强索引)、**大�
 例如线性回归、逻辑回归、决策树、支持向量机(SVM)、随机森林、KNN K近邻、PCA 主成分分析
 
 ### 效果如图
-![page 1](https://myoctocat.com/assets/images/base-octocat.svg)
+![page 1](./img/1.png)
+![page 1](./img/2.png)
+![page 1](./img/3.png)
+![page 1](./img/4.png)
+![page 1](./img/5.png)
+![page 1](./img/6.png)
